@@ -28,8 +28,8 @@ Due to file size limits, the **BaliCarved3D dataset** (consisting of 52 classes 
 The framework is built using PyTorch 2.1 and CUDA 12.1. To set up the environment, run:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/BaliCarved3D.git](https://github.com/YOUR_USERNAME/BaliCarved3D.git)
-cd BaliCarved3D
+git clone (https://github.com/TrianCode/TripoSRUkiran.git)
+cd TripoSRUkiran
 pip install -r requirements.txt
 
 python inference.py --image test_images/sample_saka.png --output_dir ./output --use_refinement True
