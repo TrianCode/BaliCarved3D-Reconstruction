@@ -20,7 +20,7 @@ This repository contains the inference code, model architecture, and evaluation 
 
 Due to file size limits, the **BaliCarved3D dataset** (consisting of 52 classes of architectural carvings) and the **pre-trained model weights** are hosted externally. 
 
-* **Dataset & Pre-trained Weights:** [Insert Link to Figshare/Zenodo/Drive Here]
+* **Dataset & Pre-trained Weights:** (https://github.com/TrianCode/BaliCarved3D-Reconstruction/tree/main/datasets)
 * Please download the files from the link above and extract the dataset into the `data/` directory before running the evaluation scripts.
 
 ## ⚙️ Installation
